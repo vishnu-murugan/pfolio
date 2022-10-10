@@ -6,8 +6,7 @@ for(i=0;i<buttons.length;i++){
     buttons[i].onclick = function(){
         let input = this.innerText;
         updateDisplay(input)
-        
-    }
+        }
 }
 function updateDisplay(input){
     let currentDisplay = result.innerText
@@ -43,10 +42,3 @@ function updateDisplay(input){
     }
 
 }
-
-
-
-
-
-
-
