@@ -1,26 +1,6 @@
-/*-----------------------------------*\
-  #style.css
-\*-----------------------------------*/
-
-
-/**
- * copyright 2022 @codewithsadee
- */
-
-
-
-
-
-/*-----------------------------------*\
-  #CUSTOM PROPERTY
-\*-----------------------------------*/
-
 :root {
 
-  /**
-   * colors
-   */
-
+  /* colors */
   /* gradient */
 
   --bg-gradient-onyx: linear-gradient(
@@ -69,9 +49,7 @@
   --light-gray-70: hsla(0, 0%, 84%, 0.7);
   --bittersweet-shimmer: hsl(0, 43%, 51%);
 
-  /**
-   * typography
-   */
+  /** typography */
 
   /* font-family */
   --ff-poppins: 'Poppins', sans-serif;
@@ -901,7 +879,7 @@ main {
 /*-----------------------------------*\
   #PORTFOLIO
 \*-----------------------------------*/
-
+/*
 .filter-list { display: none; }
 
 .filter-select-box {
@@ -1052,7 +1030,7 @@ main {
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
 }
-
+*/
 
 
 
@@ -1060,7 +1038,7 @@ main {
 /*-----------------------------------*\
   #BLOG
 \*-----------------------------------*/
-
+/*
 .blog-posts { margin-bottom: 10px; }
 
 .blog-posts-list {
@@ -1141,7 +1119,7 @@ main {
   line-height: 1.6;
 }
 
-
+*/
 
 
 
@@ -1273,13 +1251,13 @@ textarea.form-input::-webkit-resizer { display: none; }
   /**
    * #PORTFOLIO, BLOG 
    */
-
+/*
   .project-img,
   .blog-banner-box { height: auto; }
 
 }
 
-
+*/
 
 
 
